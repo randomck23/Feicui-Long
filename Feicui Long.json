@@ -1,0 +1,118 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Main Body Replace",
+          "replace_ids": [
+            13188892761
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Feicui-Long/raw/refs/heads/main/long%20green.obj"
+        },
+        {
+          "name": "Glowing Scope Replace",
+          "replace_ids": [
+            14778413014
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Feicui-Long/raw/refs/heads/main/long%20glowy.obj"
+        },
+        {
+          "name": "Secondary Parts Replace",
+          "replace_ids": [
+            14774727092
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Feicui-Long/raw/refs/heads/main/long%20grey.obj"
+        },
+        {
+          "name": "Bolts Replace",
+          "replace_ids": [
+            13188892855
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Feicui-Long/raw/refs/heads/main/long%20bolt.obj"
+        },
+        {
+          "name": "Mag Replace",
+          "replace_ids": [
+            13188892532
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Feicui-Long/raw/refs/heads/main/long%20mag.obj"
+        },
+        {
+          "name": "Hide Extra Parts",
+          "replace_ids": [
+            13188893017,
+            13188893115,
+            13188893310,
+            13188892651
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Icon Replace 1",
+          "replace_ids": [
+            17160799574
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Feicui-Long/blob/main/long%20thumbnail.png?raw=true"
+        },
+        {
+          "name": "Icon Replace 2",
+          "replace_ids": [
+            13197583098
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Feicui-Long/blob/main/long%20thumbnail%202.png?raw=true"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Sound",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Shoot Replace",
+          "replace_ids": [
+            13270206222,
+            13270206087
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Feicui-Long/raw/refs/heads/main/long%20shoott.mp3"
+        },
+        {
+          "name": "Reload Replace",
+          "replace_ids": [
+            13455394948
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Feicui-Long/raw/refs/heads/main/long%20reload.mp3"
+        }
+      ]
+    }
+  ]
+}
